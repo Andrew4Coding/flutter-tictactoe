@@ -1,4 +1,4 @@
-# simple_calculator
+# Tictactoe in Flutter
 
 A new Flutter project.
 
